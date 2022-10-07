@@ -1,4 +1,4 @@
-# Contributing to Phthon
+# Contributing to Python
 
 Anybody who programs in PHP can be a contributing member of the community that
 develops and deploys it; the task of deploying PHP, documentation and associated
