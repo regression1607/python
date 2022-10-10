@@ -19,4 +19,3 @@ for i in range(1, num_rows):
         print("*", end = "") 
         m = m + 1
     m = 1	
-    print(*)
