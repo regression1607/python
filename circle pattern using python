@@ -1,0 +1,12 @@
+def circle(n):
+for i in range(n):
+for j in range(n+1):
+if((j <=1 or j <= n) and (i != 0 and i != n – 1)) :
+print('*',end='')
+# elif ((j == 1 or j ==n-1) and (i != 0 and i != n – 1)):
+# print('*', end='')
+elif( ((i n – 2) and (j > 0 and j < n))):
+print('*',end='')
+else:
+print(end=' ')
+print()
